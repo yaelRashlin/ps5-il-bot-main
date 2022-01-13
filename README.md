@@ -19,7 +19,7 @@
   -- If you dont install selenium, the program will NOT work
   
 # instructions
-  1. Install the included, zipped, python program - install automatically by clicking https://github.com/MMZaini/ps5-uk-bot/archive/main.zip - it should be in your downloads folder, you can drag it over to your desktop or anywhere else if you'd like.
+  1. Install the included, zipped, python program - it should be in your downloads folder, you can drag it over to your desktop or anywhere else if you'd like.
   2. Locate and unzip 'ps5-uk-bot-main.zip' using winrar by right clicking the zip and selecting 'Extract Here'
   3. Open the new folder that can be found in the same directory that you have the zip in when unzipping.
   4. You can now delete the zip since its no longer needed but make sure you keep the folder.
