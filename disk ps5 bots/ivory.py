@@ -39,7 +39,7 @@ class ivory(selenium_init):
                 break
         self.play_sound()
         if self.send_email:
-            self.send_email(msg = "GO to ivory at: https://www.olsale.co.il/CheckOutUpsells.aspx?auction_id=%s&f=1" % self.id, shop_name = "ivory")
+            self.send_email(msg = "GO to ivory at: https://www.ivory.co.il/CheckOutUpsells.aspx?auction_id=%s&f=1" % self.id, shop_name = "ivory")
 
 # --------
 # main:
