@@ -1,5 +1,5 @@
 # ps5-bot
-  a selenium-python made ps5 bot currently for Israel stores: Ivory and alsale - this bot doesnt automatically type in your credit card info and purchase the whole thing for you, it only keeps refreshing until its avaliable and when its avaliable, it adds to cart and takes you to checkout, you have to input your details when making a purchase into the website.
+ This is a fork of a PS5 bot made by https://github.com/MMZaini updated for Israel stores: Ivory and alsale - this bot doesnt automatically type in your credit card info and purchase the whole thing for you, it only keeps refreshing until its avaliable and when its avaliable, it adds to cart and takes you to checkout, you have to input your details when making a purchase into the website.
 
 # credits
   - https://github.com/azaini101
